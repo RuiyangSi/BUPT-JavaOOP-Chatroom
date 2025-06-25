@@ -1,0 +1,12 @@
+frank:test
+iris:java
+admin:123456
+alice:password
+jack:swing
+henry:world
+bob:123
+eve:secret
+kate:chat
+grace:hello
+diana:pass
+charlie:abc
